@@ -4,7 +4,7 @@
 
 **Hacking Projects:**
 <br>
-<a href="https://github.com/louiselalanne/HashCodes">Trojan - Crack Software</a> |
+<a href="https://github.com/Smarttfoxx/softwarecracktrojan/">Trojan - Crack Software</a> |
 </br>
 </br>
 <img src="https://i.imgur.com/2jnQ1AG.png" alt="TryHackMe">
