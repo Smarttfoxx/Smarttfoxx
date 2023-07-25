@@ -2,9 +2,9 @@
 
 <!--[![WriteUps](https://img.shields.io/badge/WriteUps-blueviolet.svg?style=for-the-badge&logo=WriteUps&logoColor=white)](https://louiselalanne.github.io/)-->
 
-**Cyber Security Projects:**
+**Hacking Projects:**
 <br>
-<a href="https://github.com/louiselalanne/HashCodes">Program Crack Trojan</a> |
+<a href="https://github.com/louiselalanne/HashCodes">Trojan - Crack Software</a> |
 </br>
 </br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/loislane.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/SmartFox.png" alt="TryHackMe">
