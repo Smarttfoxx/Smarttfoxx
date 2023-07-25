@@ -7,4 +7,4 @@
 <a href="https://github.com/louiselalanne/HashCodes">Trojan - Crack Software</a> |
 </br>
 </br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/SmartFox.png" alt="TryHackMe">
+<img src="https://i.imgur.com/2jnQ1AG.png" alt="TryHackMe">
