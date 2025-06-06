@@ -1,5 +1,3 @@
-![banner](https://i.imgur.com/yTZk2As.jpeg)
-
 **Hacking Tools:**
 </br>
 <a href="https://github.com/Smarttfoxx/tengu/">Tengu - Phishing Tool</a>
