@@ -1,6 +1,6 @@
 **Hacking Tools:**
 </br>
-<a href="https://github.com/Smarttfoxx/Scanio">Hcanio - Network Scanner</a> | <a href="https://github.com/Smarttfoxx/tengu/">Tengu - Phishing Tool</a>
+<a href="https://github.com/Smarttfoxx/Scanio">Hugin - Network Scanner</a> | <a href="https://github.com/Smarttfoxx/tengu/">Tengu - Phishing Tool</a>
 </br>
 </br>
 **Exploits:**
