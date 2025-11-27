@@ -5,7 +5,7 @@
 </br>
 **CVE(s):**
 </br>
-<a href="https://github.com/Smarttfoxx/CVE-2025-60791">CVE-2025-60791</a> | <a href="https://github.com/Smarttfoxx/CVE-2025-45778">CVE-2025-45778</a>
+<a href="https://github.com/Smarttfoxx/CVE-2025-65320">CVE-2025-65320</a> | <a href="https://github.com/Smarttfoxx/CVE-2025-60791">CVE-2025-60791</a> | <a href="https://github.com/Smarttfoxx/CVE-2025-45778">CVE-2025-45778</a>
 </br>
 </br>
 **Exploits:**
